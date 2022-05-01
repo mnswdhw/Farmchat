@@ -1,0 +1,23 @@
+.main-div{
+    background-color: aqua;
+    width: 65%;
+    align-items: center;
+    margin: 0 0px;
+    padding: 30px;
+    margin: 20px 20px 20px 20px;
+    
+}
+
+.left-align-image{
+    margin-right: 50%;
+}
+
+
+.align-items-right{
+    margin-left: 50%;
+}
+
+.overall-div{
+    display: 'flex';
+    flex-direction: 'row';
+}
